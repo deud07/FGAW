@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/proj/C++/FGAW/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles/FGAW.dir/src/FGAW.cpp.obj -c D:/proj/C++/FGAW/src/FGAW.cpp",
+  "file": "D:/proj/C++/FGAW/src/FGAW.cpp"
+}
+]
